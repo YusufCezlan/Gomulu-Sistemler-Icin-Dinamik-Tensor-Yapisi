@@ -1,0 +1,1 @@
+# Gomulu-Sistemler-Icin-Dinamik-Tensor-Yap-s-
