@@ -1,4 +1,5 @@
 Embedded Tensor Quantization Demo
+
 -Bu depo, yüksek hassasiyetli floating-point (FP32) verilerin, bellek ve işlemci kısıtı olan gömülü sistemlerde kullanılmak üzere 8-bit tam sayı (INT8) formatına nasıl dönüştürüldüğünü gösteren bir C uygulaması içerir.
 
 
